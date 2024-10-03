@@ -29,4 +29,6 @@ Bild komprimieren
 GIF von Bildern aus einem ordner erstellen
 
 Video zu GIF (eingabe start und endzeit)
-
+#
+#
+start with python3 Systemscripte2.py
